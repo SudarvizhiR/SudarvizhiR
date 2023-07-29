@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Sudarvizhi..
+- 👀 I’m interested in Full stack development...
+- 🌱 I’m currently learning J2EE ...
+- 💞️ I’m looking to collaborate on Full stack development also web development...
+
+<!---
+SudarvizhiR/SudarvizhiR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
